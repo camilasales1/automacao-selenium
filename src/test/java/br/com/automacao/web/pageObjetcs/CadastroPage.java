@@ -1,6 +1,6 @@
 package br.com.automacao.web.pageObjetcs;
 
-import br.com.automacao.web.Elementos;
+import br.com.automacao.web.elements.Elementos;
 import org.junit.jupiter.api.Assertions;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

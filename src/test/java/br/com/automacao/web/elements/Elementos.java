@@ -1,4 +1,4 @@
-package br.com.automacao.web;
+package br.com.automacao.web.elements;
 
 import org.fluentlenium.core.annotation.PageUrl;
 import org.openqa.selenium.By;
